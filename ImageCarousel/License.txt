@@ -1,0 +1,17 @@
+﻿COPYING -- Describes the terms under which ImageCarousel is distributed.
+
+IMPORTANT IMAGECAROUSEL LICENSE TERMS
+
+Copyright (C)2021 Markus Zimmermann - imagecarousel@gmx
+
+This program is free software - you are not allowed to redistribute it and/or modify it.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+
+
+Author: Markus Zimmermann
+ 
+Contact me (no support request and bug report please, only praise and worship ;) )
+Email: imagecarousel@gmx.de
+
+instagram: https://instagram.com/darkspawn81
