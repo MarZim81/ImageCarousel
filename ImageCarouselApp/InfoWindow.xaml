@@ -1,0 +1,27 @@
+﻿<Window x:Class="ImageCarousel.InfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:ImageCarousel"
+        mc:Ignorable="d"
+        Title="Image Carousel - Info" Height="330" Width="600" WindowStartupLocation="CenterScreen" Background="#494949" Foreground="LightGray">
+    <StackPanel Margin="10">
+        <GroupBox>
+            <TextBlock TextWrapping="Wrap" Margin="10">This program is free software - you are not allowed to redistribute it and/or modify it.<LineBreak/>
+                <LineBreak/>
+                This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.<LineBreak/> 
+                <LineBreak/>
+                USE AT YOUR OWN RISK!<LineBreak/>
+                <LineBreak/>
+                <LineBreak/>
+                Author: Markus Zimmermann<LineBreak/>
+                <LineBreak/>
+                Contact me (no support request and bug report please, only praise and worship ;) )<LineBreak/>
+                Email: imagecarousel@gmx.de<LineBreak/>
+                Instagram: https://instagram.com/darkspawn81
+            </TextBlock>
+        </GroupBox>
+        <Button HorizontalAlignment="Right" Content="Close" Margin="0 10  0 0" Width="100" Height="25" Click="BtnClose_OnClick" Name="btnClose" />
+    </StackPanel>
+</Window>
